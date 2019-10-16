@@ -3,6 +3,6 @@ metadata:
     name: exampleName
 projects:
  - name:exampleProject
-   source:
-    type: git
-    location: 'https://github.com/anthonma/cheTestRepo.git'
+    source:
+        type: git
+        location: 'https://github.com/anthonma/cheTestRepo.git'
