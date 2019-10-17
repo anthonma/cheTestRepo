@@ -7,6 +7,6 @@ projects:
       type: git
       location: 'https://github.com/anthonma/cheTestRepo.git'
 components:
- - alias: cpp
-   type: chePlugin
+ - type: chePlugin
    id: che-incubator/cpptools/latest
+   alias: cpp-plugin
