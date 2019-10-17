@@ -7,6 +7,7 @@ class SimpleHelloWorld{
 
     public void doSomething(){
         System.out.println("I've done something");
+        System.out.println("and something else");
     }
-	
+
 }
