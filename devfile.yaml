@@ -2,7 +2,7 @@ apiVersion: 1.0.0
 metadata:
     name: exampleName
 projects:
-  - name:exampleProject
+  - name: exampleProject
     source:
       type: git
       location: 'https://github.com/anthonma/cheTestRepo.git'
