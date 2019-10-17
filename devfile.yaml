@@ -3,7 +3,7 @@ metadata:
     name: exampleName
 projects:
   - name:exampleProject
-    source:
+  source:
       type: git
       location: 'https://github.com/anthonma/cheTestRepo.git'
 components:
