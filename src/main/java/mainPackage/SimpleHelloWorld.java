@@ -1,3 +1,5 @@
+package mainPackage;
+
 class SimpleHelloWorld{
 
 	public static void main(String[] args){
