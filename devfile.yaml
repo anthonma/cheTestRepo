@@ -6,6 +6,7 @@ projects:
     source:
       type: git
       location: 'https://github.com/anthonma/cheTestRepo.git'
+      branch: developer_1
 components:
   -
     type: chePlugin
