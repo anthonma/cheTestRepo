@@ -10,11 +10,11 @@ projects:
 components:
   -
     type: chePlugin
-    registryUrl: http://che-plugin-registry-che.192.168.99.100.nip.io/plugins
-    id: che-incubator/cpptools/0.1
+    id: redhat/java11/latest
   -
     type: chePlugin
-    id: redhat/java11/latest
+    registryUrl: http://che-plugin-registry-che.192.168.99.100.nip.io/plugins
+    id: che-incubator/cpptools/0.1
   -
     type: dockerimage
     alias: maven
